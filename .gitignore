@@ -1,0 +1,10 @@
+# Ignore images
+
+datasets/test/NORMAL
+datasets/test/PNEUMONIA
+
+datasets/train/NORMAL
+datasets/train/PNEUMONIA
+
+datasets/val/NORMAL
+datasets/val/PNEUMONIA
